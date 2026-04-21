@@ -11,7 +11,6 @@ class Solution(object):
             if i.isalnum():
                 y+=(i.lower())
         rev = y[::-1]
-        print(rev)
         if(y == rev):
             return True
         else:

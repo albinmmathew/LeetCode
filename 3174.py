@@ -10,7 +10,7 @@ class Solution(object):
         for i in s:
             if stack and stack[-1].isalpha() and i.isdigit():
                 stack.pop()
-            elif i.isalpha:
+            elif i.isalpha():
                 stack.append(i)
         return "".join(stack)
 
