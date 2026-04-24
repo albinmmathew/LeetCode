@@ -2,7 +2,7 @@
 
 A collection of LeetCode problem solutions in Python and Java.
 
-## Problems Solved (30 Total)
+## Problems Solved (34 Total)
 
 ### Easy Problems
 
@@ -24,12 +24,16 @@ A collection of LeetCode problem solutions in Python and Java.
 | 344 | Reverse String | Easy | ✅ |
 | 345 | Reverse Vowels of a String | Easy | ✅ |
 | 349 | Intersection of Two Arrays | Easy | ✅ |
+| 387 | First Unique Character in a String | Easy | ✅ |
 | 412 | Fizz Buzz | Easy | ✅ |
 | 509 | Fibonacci Number | Easy | ✅ |
 | 728 | Self Dividing Numbers | Easy | ✅ |
+| 933 | Number of Recent Calls | Easy | ✅ |
 | 1544 | Make The String Great | Easy | ✅ |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | ✅ |
+| 2073 | Time Needed to Buy Tickets | Easy | ✅ |
 | 2079 | Watering Plants | Easy | ✅ |
+| 2351 | First Letter to Appear Twice | Easy | ✅ |
 | 3174 | Clear Digits | Easy | ✅ |
 
 ### Medium Problems
@@ -54,6 +58,7 @@ A collection of LeetCode problem solutions in Python and Java.
 - **Move Zeroes** (283) - Two-pointer swap
 - **Intersection of Two Arrays** (349) - Set-based approach
 - **Add Digits** (258) - Iterative digit sum
+- **Time Needed to Buy Tickets** (2073) - Greedy simulation
 
 ### String Problems
 - **Valid Parentheses** (20) - Stack-based validation
@@ -65,6 +70,8 @@ A collection of LeetCode problem solutions in Python and Java.
 - **Make The String Great** (1544) - Stack with case-insensitive comparison
 - **Minimum String Length** (2696) - Stack-based substring removal
 - **Clear Digits** (3174) - Stack with digit removal
+- **First Unique Character** (387) - Hash map with index tracking
+- **First Letter to Appear Twice** (2351) - Set-based occurrence tracking
 
 ### Math Problems
 - **Reverse Integer** (7) - Bit manipulation
@@ -88,6 +95,9 @@ A collection of LeetCode problem solutions in Python and Java.
 - **Minimum String Length** (2696)
 - **Clear Digits** (3174)
 - **Number of Students** (1700) - Queue simulation
+
+### Queue Problems
+- **Number of Recent Calls** (933) - Deque-based sliding window
 
 ### Binary Search
 - **Search Insert Position** (35) - Java implementation
