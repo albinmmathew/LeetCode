@@ -14,6 +14,8 @@ A collection of LeetCode problem solutions in Python and Java.
 | 20 | Valid Parentheses | Easy | ✅ |
 | 26 | Remove Duplicates from Sorted Array | Easy | ✅ |
 | 27 | Remove Element | Easy | ✅ |
+| 82 | Remove Duplicates from Sorted List | Easy | ✅ |
+| 83 | Remove Duplicates from Sorted List | Easy | ✅ |
 | 88 | Merge Sorted Array | Easy | ✅ |
 | 125 | Valid Palindrome | Easy | ✅ |
 | 136 | Single Number | Easy | ✅ |
@@ -104,7 +106,7 @@ A collection of LeetCode problem solutions in Python and Java.
 
 ## File Organization
 
-- `.py` files: Python 3 solutions
+- `.py` files: Python solutions
 - `.java` files: Java solutions
 
 ## Notes
