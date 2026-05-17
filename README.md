@@ -2,53 +2,64 @@
 
 A collection of LeetCode problem solutions in Python and Java.
 
-## Problems Solved (34 Total)
+## Problems Solved (48 Total)
 
 ### Easy Problems
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ |
-| 7 | Reverse Integer | Easy | ✅ |
-| 9 | Palindrome Number | Easy | ✅ |
-| 20 | Valid Parentheses | Easy | ✅ |
-| 26 | Remove Duplicates from Sorted Array | Easy | ✅ |
-| 27 | Remove Element | Easy | ✅ |
-| 82 | Remove Duplicates from Sorted List | Easy | ✅ |
-| 83 | Remove Duplicates from Sorted List | Easy | ✅ |
-| 88 | Merge Sorted Array | Easy | ✅ |
-| 125 | Valid Palindrome | Easy | ✅ |
-| 136 | Single Number | Easy | ✅ |
-| 167 | Two Sum II - Input Array Is Sorted | Easy | ✅ |
-| 258 | Add Digits | Easy | ✅ |
-| 268 | Missing Number | Easy | ✅ |
-| 283 | Move Zeroes | Easy | ✅ |
-| 344 | Reverse String | Easy | ✅ |
-| 345 | Reverse Vowels of a String | Easy | ✅ |
-| 349 | Intersection of Two Arrays | Easy | ✅ |
-| 387 | First Unique Character in a String | Easy | ✅ |
-| 412 | Fizz Buzz | Easy | ✅ |
-| 509 | Fibonacci Number | Easy | ✅ |
-| 728 | Self Dividing Numbers | Easy | ✅ |
-| 933 | Number of Recent Calls | Easy | ✅ |
-| 1544 | Make The String Great | Easy | ✅ |
-| 1700 | Number of Students Unable to Eat Lunch | Easy | ✅ |
-| 2073 | Time Needed to Buy Tickets | Easy | ✅ |
-| 2079 | Watering Plants | Easy | ✅ |
-| 2351 | First Letter to Appear Twice | Easy | ✅ |
-| 3174 | Clear Digits | Easy | ✅ |
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1 | Two Sum | Easy |
+| 7 | Reverse Integer | Easy |
+| 9 | Palindrome Number | Easy |
+| 20 | Valid Parentheses | Easy |
+| 26 | Remove Duplicates from Sorted Array | Easy |
+| 27 | Remove Element | Easy |
+| 66 | Plus One | Easy |
+| 69 | Sqrt(x) | Easy |
+| 82 | Remove Duplicates from Sorted List | Easy |
+| 83 | Remove Duplicates from Sorted List | Easy |
+| 88 | Merge Sorted Array | Easy |
+| 125 | Valid Palindrome | Easy |
+| 136 | Single Number | Easy |
+| 167 | Two Sum II - Input Array Is Sorted | Easy |
+| 202 | Happy Number | Easy |
+| 232 | Implement Queue using Stacks | Easy |
+| 258 | Add Digits | Easy |
+| 268 | Missing Number | Easy |
+| 283 | Move Zeroes | Easy |
+| 344 | Reverse String | Easy |
+| 345 | Reverse Vowels of a String | Easy |
+| 349 | Intersection of Two Arrays | Easy |
+| 350 | Intersection of Two Arrays II | Easy |
+| 387 | First Unique Character in a String | Easy |
+| 412 | Fizz Buzz | Easy |
+| 509 | Fibonacci Number | Easy |
+| 728 | Self Dividing Numbers | Easy |
+| 933 | Number of Recent Calls | Easy |
+| 1003 | Verify an Alien Dictionary | Easy |
+| 1021 | Remove Outermost Parentheses | Easy |
+| 1046 | Last Stone Weight | Easy |
+| 1475 | Final Prices With a Special Discount in a Shop | Easy |
+| 1544 | Make The String Great | Easy |
+| 1700 | Number of Students Unable to Eat Lunch | Easy |
+| 2073 | Time Needed to Buy Tickets | Easy |
+| 2079 | Watering Plants | Easy |
+| 2351 | First Letter to Appear Twice | Easy |
+| 3174 | Clear Digits | Easy |
 
 ### Medium Problems
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 11 | Container With Most Water | Medium | ✅ |
-| 15 | 3Sum | Medium | ✅ |
-| 28 | Find the Index of the First Occurrence in a String | Medium | ✅ |
-| 35 | Search Insert Position | Medium | ✅ |
-| 71 | Simplify Path | Medium | ✅ |
-| 2015 | Watering Plants II | Medium | ✅ |
-| 2696 | Minimum String Length After Removing Substrings | Medium | ✅ |
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 11 | Container With Most Water | Medium |
+| 15 | 3Sum | Medium |
+| 28 | Find the Index of the First Occurrence in a String | Medium |
+| 35 | Search Insert Position | Medium |
+| 71 | Simplify Path | Medium |
+| 155 | Min Stack | Medium |
+| 316 | Remove Duplicate Letters | Medium |
+| 2015 | Watering Plants II | Medium |
+| 2696 | Minimum String Length After Removing Substrings | Medium |
 
 ## Solution Overview
 
@@ -106,14 +117,6 @@ A collection of LeetCode problem solutions in Python and Java.
 
 ## File Organization
 
-- `.py` files: Python solutions
-- `.java` files: Java solutions
-
-## Notes
-
-All solutions follow LeetCode's provided class structure and are optimized for correctness and efficiency. Each solution includes:
-- Problem name in comment
-- Proper docstrings
-- Clean, readable code
-- Time and space complexity considerations
-
+- `.py` files: Python solutions (46)
+- `.java` files: Java solutions (1)
+- `.sql` files: SQL solutions (1)
