@@ -2,7 +2,7 @@
 
 A collection of LeetCode problem solutions in Python and Java.
 
-## Problems Solved (48 Total)
+## Problems Solved (68 Total)
 
 ### Easy Problems
 
@@ -55,11 +55,44 @@ A collection of LeetCode problem solutions in Python and Java.
 | 15 | 3Sum | Medium |
 | 28 | Find the Index of the First Occurrence in a String | Medium |
 | 35 | Search Insert Position | Medium |
+| 70 | Climbing Stairs | Easy |
 | 71 | Simplify Path | Medium |
+| 118 | Pascal's Triangle | Easy |
+| 119 | Pascal's Triangle II | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
 | 155 | Min Stack | Medium |
+| 191 | Number of 1 Bits | Easy |
+| 206 | Reverse Linked List | Easy |
+| 217 | Contains Duplicate | Easy |
+| 242 | Valid Anagram | Easy |
+| 278 | First Bad Version | Easy |
+| 313 | Super Ugly Number | Medium |
 | 316 | Remove Duplicate Letters | Medium |
+| 322 | Coin Change | Medium |
+| 338 | Counting Bits | Easy |
+| 389 | Find the Difference | Easy |
+| 414 | Third Maximum Number | Easy |
+| 628 | Maximum Product of Three Numbers | Easy |
+| 704 | Binary Search | Easy |
+| 746 | Min Cost Climbing Stairs | Easy |
+| 997 | Find the Town Judge | Easy |
+| 1137 | N-th Tribonacci Number | Easy |
+| 1791 | Find Center of Star Graph | Easy |
+| 1971 | Find if Path Exists in Graph | Medium |
 | 2015 | Watering Plants II | Medium |
 | 2696 | Minimum String Length After Removing Substrings | Medium |
+| 2859 | Sum of Values at Indices With K Set Bits | Medium |
+
+### Hard Problems
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+
+### Database (SQL)
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 175 | Combine Two Tables | Easy |
 
 ## Solution Overview
 
@@ -117,6 +150,6 @@ A collection of LeetCode problem solutions in Python and Java.
 
 ## File Organization
 
-- `.py` files: Python solutions (46)
+- `.py` files: Python solutions (66)
 - `.java` files: Java solutions (1)
 - `.sql` files: SQL solutions (1)
