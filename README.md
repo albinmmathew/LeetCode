@@ -2,97 +2,106 @@
 
 A collection of LeetCode problem solutions in Python and Java.
 
-## Problems Solved (68 Total)
+## Problems Solved (75 Total)
 
-### Easy Problems
+### Easy Problems (62 Total)
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | Two Sum | Easy |
 | 7 | Reverse Integer | Easy |
 | 9 | Palindrome Number | Easy |
+| 13 | Roman to Integer | Easy |
 | 20 | Valid Parentheses | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy |
 | 27 | Remove Element | Easy |
 | 66 | Plus One | Easy |
 | 69 | Sqrt(x) | Easy |
+| 70 | Climbing Stairs | Easy |
+| 75 | Sort Colors | Easy |
 | 82 | Remove Duplicates from Sorted List | Easy |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
+| 118 | Pascal's Triangle | Easy |
+| 119 | Pascal's Triangle II | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 | 136 | Single Number | Easy |
 | 167 | Two Sum II - Input Array Is Sorted | Easy |
+| 191 | Number of 1 Bits | Easy |
+| 198 | House Robber | Easy |
 | 202 | Happy Number | Easy |
+| 206 | Reverse Linked List | Easy |
+| 217 | Contains Duplicate | Easy |
 | 232 | Implement Queue using Stacks | Easy |
+| 242 | Valid Anagram | Easy |
 | 258 | Add Digits | Easy |
 | 268 | Missing Number | Easy |
+| 278 | First Bad Version | Easy |
 | 283 | Move Zeroes | Easy |
 | 344 | Reverse String | Easy |
 | 345 | Reverse Vowels of a String | Easy |
 | 349 | Intersection of Two Arrays | Easy |
 | 350 | Intersection of Two Arrays II | Easy |
+| 338 | Counting Bits | Easy |
+| 374 | Guess Number Higher or Lower | Easy |
 | 387 | First Unique Character in a String | Easy |
+| 389 | Find the Difference | Easy |
 | 412 | Fizz Buzz | Easy |
+| 414 | Third Maximum Number | Easy |
 | 509 | Fibonacci Number | Easy |
+| 628 | Maximum Product of Three Numbers | Easy |
+| 704 | Binary Search | Easy |
 | 728 | Self Dividing Numbers | Easy |
+| 744 | Find Smallest Letter Greater Than Target | Easy |
+| 746 | Min Cost Climbing Stairs | Easy |
 | 933 | Number of Recent Calls | Easy |
+| 997 | Find the Town Judge | Easy |
 | 1003 | Verify an Alien Dictionary | Easy |
 | 1021 | Remove Outermost Parentheses | Easy |
 | 1046 | Last Stone Weight | Easy |
+| 1137 | N-th Tribonacci Number | Easy |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy |
 | 1544 | Make The String Great | Easy |
 | 1700 | Number of Students Unable to Eat Lunch | Easy |
+| 1791 | Find Center of Star Graph | Easy |
 | 2073 | Time Needed to Buy Tickets | Easy |
 | 2079 | Watering Plants | Easy |
 | 2351 | First Letter to Appear Twice | Easy |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy |
 | 3174 | Clear Digits | Easy |
 
-### Medium Problems
+### Medium Problems (15 Total)
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | Container With Most Water | Medium |
 | 15 | 3Sum | Medium |
 | 28 | Find the Index of the First Occurrence in a String | Medium |
+| 207 | Course Schedule | Medium |
 | 35 | Search Insert Position | Medium |
-| 70 | Climbing Stairs | Easy |
+| 238 | Product of Array Except Self | Medium |
 | 71 | Simplify Path | Medium |
-| 118 | Pascal's Triangle | Easy |
-| 119 | Pascal's Triangle II | Easy |
-| 121 | Best Time to Buy and Sell Stock | Easy |
 | 155 | Min Stack | Medium |
-| 191 | Number of 1 Bits | Easy |
-| 206 | Reverse Linked List | Easy |
-| 217 | Contains Duplicate | Easy |
-| 242 | Valid Anagram | Easy |
-| 278 | First Bad Version | Easy |
 | 313 | Super Ugly Number | Medium |
 | 316 | Remove Duplicate Letters | Medium |
 | 322 | Coin Change | Medium |
-| 338 | Counting Bits | Easy |
-| 389 | Find the Difference | Easy |
-| 414 | Third Maximum Number | Easy |
-| 628 | Maximum Product of Three Numbers | Easy |
-| 704 | Binary Search | Easy |
-| 746 | Min Cost Climbing Stairs | Easy |
-| 997 | Find the Town Judge | Easy |
-| 1137 | N-th Tribonacci Number | Easy |
-| 1791 | Find Center of Star Graph | Easy |
 | 1971 | Find if Path Exists in Graph | Medium |
 | 2015 | Watering Plants II | Medium |
 | 2696 | Minimum String Length After Removing Substrings | Medium |
 | 2859 | Sum of Values at Indices With K Set Bits | Medium |
 
-### Hard Problems
+### Hard Problems (0 Total)
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 
-### Database (SQL)
+### Database (SQL) (2 Total)
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 175 | Combine Two Tables | Easy |
+| 181 | Employees Earning More Than Their Managers | Easy |
 
 ## Solution Overview
 
@@ -150,6 +159,6 @@ A collection of LeetCode problem solutions in Python and Java.
 
 ## File Organization
 
-- `.py` files: Python solutions (66)
+- `.py` files: Python solutions (72)
 - `.java` files: Java solutions (1)
-- `.sql` files: SQL solutions (1)
+- `.sql` files: SQL solutions (2)
