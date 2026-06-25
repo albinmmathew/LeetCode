@@ -1,5 +1,5 @@
 -- Employees Whose Manager Left the Company
-
+ 
 /* Write your PL/SQL query statement below */
 SELECT EMPLOYEE_ID FROM EMPLOYEES 
     WHERE SALARY<30000 
