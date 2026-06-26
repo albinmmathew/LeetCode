@@ -1,0 +1,9 @@
+-- Customer Placing the Largest Number of Orders
+
+/* Write your PL/SQL query statement below */
+SELECT CUSTOMER_NUMBER FROM ORDERS
+GROUP BY CUSTOMER_NUMBER
+HAVING COUNT(*) = (
+    SELECT MAX(CNT) FROM (
+    SELECT COUNT(*) AS CNT FROM ORDERS GROUP BY CUSTOMER_NUMBER)
+);
