@@ -1,0 +1,6 @@
+-- Classes With at Least 5 Students
+
+/* Write your PL/SQL query statement below */
+SELECT CLASS FROM COURSES 
+GROUP BY CLASS 
+HAVING COUNT(*)>=5;
